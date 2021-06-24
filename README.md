@@ -17,7 +17,7 @@ git push -f origin master
 This will not keep our old commits history around. **But if this doesn't work, try the next method below.**
 ### Second Method
 ```
-# Clone the project, e.g. `myproject` is my project repository:
+# Clone the project, e.g. `repository-reset` is my project repository:
 git clone https://github/programmerhasan/repository-reset.git
 # Since all of the commits history are in the `.git` folder, we have to remove it:
 cd myproject
